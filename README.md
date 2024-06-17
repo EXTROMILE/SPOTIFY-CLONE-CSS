@@ -19,3 +19,5 @@ Usage
 Navigate Through Pages: Use the navigation bar to switch between Home, Search, and Library pages.
 
 Responsive Testing: Resize your browser window to see how the layout adjusts to different screen sizes.
+
+Deployment link : https://extromile.github.io/SPOTIFY-CLONE-CSS/
